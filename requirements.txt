@@ -1,0 +1,11 @@
+alpaca-py>=0.42.0
+pandas>=2.2.0
+numpy>=1.26.0
+python-dotenv>=1.0.1
+vaderSentiment>=3.3.2
+feedparser>=6.0.11
+requests>=2.32.0
+tenacity>=8.2.3
+pytest>=8.0.0
+# Optional social source. Install/use only when you have X API access.
+tweepy>=4.14.0
